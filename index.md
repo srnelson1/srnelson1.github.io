@@ -5,21 +5,30 @@ description: Researching and teaching mathematics.
 ---
 
 # Seth Nelson
+
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
-  <span id="email"></span>
-<script type="text/javascript">
-  // Split and reconstruct the email
-  var user = "seth.nelson";
-  var domain = "email.com";
-  var email = user + "@" + domain;
-  document.getElementById("email").innerHTML = '<a href="mailto:' + email + '">' + email + '</a>';
-</script>
+  <span id="email">[email hidden]</span>
 </div>
+
+<script type="text/javascript">
+  // JavaScript email obfuscation
+  (function () {
+    var user = "seth.nelson";
+    var domain = "email.com";
+    var email = user + "@" + domain;
+    var el = document.getElementById("email");
+    if (el) {
+      el.innerHTML = '<a href="mailto:' + email + '">' + email + '</a>';
+    }
+  })();
+</script>
+
 <br>
 
 ---
+
 
 ## About Me
 
