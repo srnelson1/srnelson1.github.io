@@ -30,11 +30,11 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 ## Research
 
-- **Title of Paper or Project** (Year)  
-  _Short description, journal/conference if published._
+- **Character theoretic techniques for nonabelian partial difference sets** (2025)  
+  _In joint work with Dr. Eric Swartz, we use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups._
   
-- **Another Project Title** (Year)  
-  _Description or goal of the project._
+- **Strong Chromatic Index of Planar Graphs with Ore-degree at Most 7 is at most 13** (2025)  
+  _In joint work with Dr. Gexin Yu, we use Combinatorial Nullstellens to prove the above result._
 
 ---
 
