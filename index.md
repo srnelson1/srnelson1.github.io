@@ -8,21 +8,14 @@ description: Researching and teaching mathematics.
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
-  <script type="text/javascript">
-  // Obfuscated email
-  const user = "srnelson.math";
-  const domain = "gmail.com";
-  const full = user + "@" + domain;
-
-  document.addEventListener("DOMContentLoaded", function () {
-    const emailLink = document.getElementById("email");
-    emailLink.href = "mailto:" + full;
-    emailLink.textContent = full;
-  });
+  <span id="email"></span>
+<script type="text/javascript">
+  // Split and reconstruct the email
+  var user = "seth.nelson";
+  var domain = "email.com";
+  var email = user + "@" + domain;
+  document.getElementById("email").innerHTML = '<a href="mailto:' + email + '">' + email + '</a>';
 </script>
-
-<a id="email" href="#">[loading email...]</a>
-  <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
 </div>
 <br>
 
