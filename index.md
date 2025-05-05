@@ -8,8 +8,20 @@ description: Researching and teaching mathematics.
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
-  <a href="mailto:coxntact@domainx.com"
-    onmouseover="this.href=this.href.replace(/x/g,'');">link</a>
+  <script type="text/javascript">
+  // Obfuscated email
+  const user = "srnelson.math";
+  const domain = "gmail.com";
+  const full = user + "@" + domain;
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const emailLink = document.getElementById("email");
+    emailLink.href = "mailto:" + full;
+    emailLink.textContent = full;
+  });
+</script>
+
+<a id="email" href="#">[loading email...]</a>
   <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
 </div>
 <br>
