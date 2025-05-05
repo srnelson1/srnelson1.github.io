@@ -12,7 +12,7 @@ description: Researching and teaching mathematics.
   📧 <a href="mailto:seth.nelson@email.com">seth.nelson@email.com</a><br>
   <a href="https://github.com/sethnelson">GitHub</a> • <a href="cv.pdf">CV</a>
 </div>
-
+<br>
 ---
 
 ## About Me
