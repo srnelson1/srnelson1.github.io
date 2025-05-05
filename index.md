@@ -6,18 +6,18 @@ description: Researching and teaching mathematics.
 
 ## <span style="color: #007fff;">Seth Nelson</span>
 
-<div style="line-height: 1.4em;">
-  <em>PhD Student in Mathematics</em><br>
-  University of Georgia<br>
+## <span style="color: #007fff;">Seth Nelson</span>
+
+<div style="display: flex; align-items: center;">
+  <div style="line-height: 1.4em; flex: 1;">
+    <em>PhD Student in Mathematics</em><br>
+    University of Georgia<br>
+    <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+      &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+    </a>
+  </div>
+  <img src="/assets/images/portrait-min.png" alt="Headshot" style="width: 150px; margin-left: 20px;">
 </div>
-<img src="/assets/images/portrait-min.png" alt="Headshot" style="float: right; margin-left: 15px;" width="200">
-
-
-<a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
-</a>
-
-
 
 <br>
 
