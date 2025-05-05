@@ -5,12 +5,14 @@ description: Researching and teaching mathematics.
 ---
 
 # Seth Nelson
-
 _PhD Student in Mathematics_  
+
 University of Georgia
 
 Athens, Georgia
+
 📧 [seth.nelson@email.com](mailto:seth.nelson@email.com)  
+
 [GitHub](https://github.com/sethnelson) • [CV](cv.pdf)
 
 ---
