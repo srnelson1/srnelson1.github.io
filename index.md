@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Site
+title: Seth Nelson | Math PhD
 ---
 
 # Welcome to my Jekyll site!
