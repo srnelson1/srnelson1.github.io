@@ -4,7 +4,7 @@ title: Seth Nelson | Math PhD
 description: Researching and teaching mathematics.
 ---
 
-## <span style="color: Blue;">Seth Nelson</span>
+## <span style="color: DodgerBlue;">Seth Nelson</span>
 
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
