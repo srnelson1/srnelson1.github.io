@@ -13,6 +13,7 @@ description: Researching and teaching mathematics.
   <a href="https://github.com/sethnelson">GitHub</a> • <a href="cv.pdf">CV</a>
 </div>
 <br>
+
 ---
 
 ## About Me
