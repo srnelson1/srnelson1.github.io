@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Seth Nelson | Math PhD
+description: Researching and teaching mathematics.
 ---
 
-# Welcome to my Jekyll site!
+# Welcome to my website!
 
-This is a test of my GitHub Pages + Jekyll setup.
+Hi, my name is Seth, and I am a PhD student in Mathematics at the University of Georgia.
 
