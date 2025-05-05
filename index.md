@@ -34,8 +34,8 @@ I’m a PhD student in mathematics with interests in [algebraic geometry], [comp
 
 I’ve taught or assisted with the following courses:
 
-- Math 221: Linear Algebra (Fall 2024)
-- Math 101: Calculus I (Spring 2024)
+- William & Mary Math 307: Abstract Algebra 1 (Fall 2024)
+- William & Mary 451: Linear Algebraic Methods in Combinatorics (Fall 2024)
 
 ---
 
