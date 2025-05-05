@@ -33,7 +33,7 @@ I’m a PhD student in mathematics with interests in [algebraic geometry], [comp
 
 ## Teaching
 
-I’ve taught or assisted with the following courses:
+I’ve taught or graded the following courses:
 
 - William & Mary Math 307: Abstract Algebra 1 (Fall 2024)
 - William & Mary 451: Linear Algebraic Methods in Combinatorics (Fall 2024)
