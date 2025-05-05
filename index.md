@@ -28,7 +28,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 ---
 
-## <span style="color: DodgerBlue;">Research</span>
+## <span style="color: #00aaff;">Research</span>
 
 - **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz)  
   _We use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an <a href="https://github.com/srnelson1/PDS-class-intersections.git">algorithm</a> for finding the conjugacy class intersections of certain classes of partial difference set._
