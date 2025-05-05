@@ -42,9 +42,8 @@ I’ve taught or graded the following courses:
 
 ## Contact
 
-If you'd like to reach out about research, collaboration, or teaching, feel free to email me.
+If you'd like to reach out about research, collaboration, or teaching, feel free to email me at srnelson.math [at] gmail [dot] com (replacte the [at] with "@" and [dot] with ".").
 
-📧 [seth.nelson@email.com](mailto:seth.nelson@email.com)
 
 
 
