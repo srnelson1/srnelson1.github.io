@@ -7,10 +7,10 @@ description: Researching and teaching mathematics.
 # Seth Nelson
 
 _PhD Student in Mathematics_  
-[Your University or Institution]  
-[City, State]  
+University of Georgia
+Athens, Georgia
 📧 [seth.nelson@email.com](mailto:seth.nelson@email.com)  
-[GitHub](https://github.com/sethnelson) • [CV](cv.pdf) • [Google Scholar](#)
+[GitHub](https://github.com/sethnelson) • [CV](cv.pdf)
 
 ---
 
