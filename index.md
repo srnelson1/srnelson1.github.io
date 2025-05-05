@@ -9,7 +9,7 @@ description: Researching and teaching mathematics.
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
   srnelson.math [at] gmail [dot] com<br>
-  <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">Download CV</a>
+  <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
 </div>
 <br>
 
