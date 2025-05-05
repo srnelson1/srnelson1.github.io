@@ -22,7 +22,7 @@ description: Researching and teaching mathematics.
 ---
 
 
-## <p style="color: blue;">About Me</p>
+<h2 style="color: blue;">About Me</h2>
 
 I’m a PhD student in mathematics with an amorphous collection of interests, focusing loosely on representation theory, combinatorics, and computational algebra. I’m currently working on problems involving automorphism groups of strongly regular graphs, as well as strong edge colorings of graphs, under the supervision of Dr. Eric Swartz and Dr. Gexin Yu respectively.
 
