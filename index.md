@@ -4,7 +4,7 @@ title: Seth Nelson | Math PhD
 description: Researching and teaching mathematics.
 ---
 
-# Seth Nelson
+## <span style="color: DarkBlue;">Seth Nelson</span>
 
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
@@ -22,13 +22,13 @@ description: Researching and teaching mathematics.
 ---
 
 
-## <span style="color: BlueViolet;">About Me</span>
+## <span style="color: DodgerBlue;">About Me</span>
 
 I’m a PhD student in mathematics with an amorphous collection of interests, focusing loosely on representation theory, combinatorics, and computational algebra. I’m currently working on problems involving automorphism groups of strongly regular graphs, as well as strong edge colorings of graphs, under the supervision of Dr. Eric Swartz and Dr. Gexin Yu respectively.
 
 ---
 
-## <span style="color: DeepSkyBlue;">Research</span>
+## <span style="color: DodgerBlue;">Research</span>
 
 - **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz)  
   _We use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an <a href="https://github.com/srnelson1/PDS-class-intersections.git">algorithm</a> for finding the conjugacy class intersections of certain classes of partial difference set._
@@ -47,7 +47,7 @@ I’ve taught or graded the following courses:
 
 ---
 
-## <span style="color: SteelBlue;">Contact</span>
+## <span style="color: DodgerBlue;">Contact</span>
 
 If you'd like to reach out about research, collaboration, or teaching, feel free to email me at <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
 &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
