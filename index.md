@@ -38,7 +38,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 ---
 
-## <span style="color: #00d4ff;">Teaching</span>
+## <span style="color: #00bfff;">Teaching</span>
 
 I’ve taught or graded the following courses:
 
