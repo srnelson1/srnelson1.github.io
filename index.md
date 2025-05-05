@@ -5,8 +5,6 @@ description: Researching and teaching mathematics.
 ---
 
 # Seth Nelson
-_PhD Student in Mathematics_  
-
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
