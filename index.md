@@ -21,6 +21,7 @@ description: Researching and teaching mathematics.
 
 ---
 
+![Alt text](/assets/images/portrait-min.png)
 
 ## <span style="color: #00aaff;">About Me</span>
 
