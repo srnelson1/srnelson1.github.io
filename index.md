@@ -10,6 +10,8 @@ description: Researching and teaching mathematics.
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
 </div>
+<img src="/assets/images/portrait-min.png" alt="Headshot" style="float: right; margin-left: 15px;" width="200">
+
 
 <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
 &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
@@ -20,8 +22,6 @@ description: Researching and teaching mathematics.
 <br>
 
 ---
-
-![Alt text](/assets/images/portrait-min.png)
 
 ## <span style="color: #00aaff;">About Me</span>
 
