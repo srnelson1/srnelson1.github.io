@@ -33,7 +33,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 - **Character theoretic techniques for nonabelian partial difference sets** (2025)  
   _In joint work with Dr. Eric Swartz, we use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups._
   
-- **Strong Chromatic Index of Planar Graphs with Ore-degree at Most 7 is at most 13** (2025)  
+- **Strong chromatic index of planar graphs with Ore-degree at most 7 is at most 13** (2025)  
   _In joint work with Dr. Gexin Yu, we use Combinatorial Nullstellens to prove the above result._
 
 ---
