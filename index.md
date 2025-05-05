@@ -12,18 +12,10 @@ description: Researching and teaching mathematics.
   <span id="email">[email hidden]</span>
 </div>
 
-<script type="text/javascript">
-  // JavaScript email obfuscation
-  (function () {
-    var user = "seth.nelson";
-    var domain = "email.com";
-    var email = user + "@" + domain;
-    var el = document.getElementById("email");
-    if (el) {
-      el.innerHTML = '<a href="mailto:' + email + '">' + email + '</a>';
-    }
-  })();
-</script>
+<a href="mailto:&#115;&#101;&#116;&#104;&#46;&#110;&#101;&#108;&#115;&#111;&#110;&#64;&#101;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+&#115;&#101;&#116;&#104;&#46;&#110;&#101;&#108;&#115;&#111;&#110;&#64;&#101;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+</a>
+
 
 <br>
 
