@@ -8,7 +8,8 @@ description: Researching and teaching mathematics.
 <div style="line-height: 1.4em;">
   <em>PhD Student in Mathematics</em><br>
   University of Georgia<br>
-  srnelson.math [at] gmail [dot] com<br>
+  <a href="mailto:coxntact@domainx.com"
+    onmouseover="this.href=this.href.replace(/x/g,'');">link</a>
   <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
 </div>
 <br>
