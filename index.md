@@ -42,8 +42,8 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 I’ve taught or graded the following courses:
 
-- William & Mary Math 307: Abstract Algebra I (Fall 2024)
-- William & Mary 451: Linear Algebraic Methods in Combinatorics (Fall 2024)
+- William & Mary, Math 307: Abstract Algebra I (Fall 2024)
+- William & Mary, Math 451: Linear Algebraic Methods in Combinatorics (Fall 2024)
 
 ---
 
