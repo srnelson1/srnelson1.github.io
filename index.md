@@ -6,8 +6,6 @@ description: Researching and teaching mathematics.
 
 ## <span style="color: #007fff;">Seth Nelson</span>
 
-## <span style="color: #007fff;">Seth Nelson</span>
-
 <div style="display: flex; align-items: center;">
   <div style="line-height: 1.4em; flex: 1;">
     <em>PhD Student in Mathematics</em><br>
