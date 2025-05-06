@@ -13,7 +13,7 @@ description: Researching and teaching mathematics.
     <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
       &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
     </a> <br>
-    <a href="https://github.com/sethnelson">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
+    <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
   </div>
   <img src="/assets/images/portrait.JPG" alt="Headshot" style="width: 150px; margin-left: 20px;">
 </div>
