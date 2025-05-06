@@ -14,7 +14,7 @@ description: Researching and teaching mathematics.
       &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
     </a>
   </div>
-  <img src="/assets/images/portrait-min.png" alt="Headshot" style="width: 150px; margin-left: 20px;">
+  <img src="/assets/images/portrait.JPG" alt="Headshot" style="width: 150px; margin-left: 20px;">
 </div>
 
 <br>
