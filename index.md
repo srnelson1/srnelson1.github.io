@@ -4,9 +4,9 @@ title: Seth Nelson | Math PhD
 description: Researching and teaching mathematics.
 ---
 
-## <span style="color: #007fff;">Seth Nelson</span>
+## <span style="color: #007fff;"><strong>Seth Nelson</strong></span>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
   <div style="line-height: 1.4em; flex: 1;">
     <em>PhD Student in Mathematics</em><br>
     University of Georgia<br>
@@ -15,20 +15,20 @@ description: Researching and teaching mathematics.
     </a> <br>
     <a href="https://github.com/srnelson1">GitHub</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
   </div>
-  <img src="/assets/images/portrait.JPG" alt="Headshot" style="width: 150px; margin-left: 20px;">
+  <img src="/assets/images/my_portrait.jpg" alt="Headshot" style="width: 400px; margin-left: 20px; margin-bottom: 45px; vertical-align: top; border: 2px solid black;">
 </div>
 
 <br>
 
 ---
 
-## <span style="color: #00aaff;">About Me</span>
+## <span style="color: #007fff;">About Me</span>
 
 I’m a PhD student in mathematics with an amorphous collection of interests, focusing loosely on representation theory, combinatorics, and computational mathematics. I’m currently working on problems involving automorphism groups of strongly regular graphs, as well as strong edge colorings of graphs, in collaboration with Dr. Eric Swartz and Dr. Gexin Yu respectively.
 
 ---
 
-## <span style="color: #00aaff;">Research</span>
+## <span style="color: #007fff;">Research</span>
 
 - **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz)  
   _We use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an <a href="https://github.com/srnelson1/PDS-class-intersections.git">algorithm</a> for finding the conjugacy class intersections of certain classes of partial difference set._
@@ -38,7 +38,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 ---
 
-## <span style="color: #00aaff;">Teaching</span>
+## <span style="color: #007fff;">Teaching</span>
 
 I’ve taught or graded the following courses:
 
@@ -47,11 +47,10 @@ I’ve taught or graded the following courses:
 
 ---
 
-## <span style="color: #00aaff;">Contact</span>
+## <span style="color: #007fff;">Contact</span>
 
-If you'd like to reach out about research, collaboration, or teaching, feel free to email me at <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
-</a>.
+If you'd like to reach out about research, collaboration, or teaching, feel free to email me at <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>.
+
 
 
 
