@@ -40,7 +40,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 ## <span style="color: #007fff;">Teaching</span>
 
-I’ve taught or graded the following courses:
+I’ve lectured or graded the following courses:
 
 - William & Mary, Math 307 (Fall 2024): Abstract Algebra I
 - William & Mary, Math 451 (Fall 2024): Linear Algebra Methods in Combinatorics
