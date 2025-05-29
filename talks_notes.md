@@ -21,7 +21,7 @@ I have some notes I would like to put here, but they are not finalized yet.
 
 ## <span style="color: #007fff;">Talks</span>
 
-- [Computational Methods for Nonabelian PDSs](/assets/Computational Methods for Nonabelian PDSs.pdf) (University of Richmond, 05/26/2025)
+- [Restrictions and Computational Methods for Nonabelian PDSs](/assets/Computational Methods for Nonabelian PDSs.pdf) (University of Richmond, 05/26/2025)
 
 	This talk introduces some of the main methods and techniques developed in my joint paper _Character theoretic techniques for nonabelian partial difference sets_ with Dr. Eric Swartz.
 
