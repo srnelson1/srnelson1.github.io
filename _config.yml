@@ -2,4 +2,4 @@ theme: minima
 
 header_pages:
   - index.md
-  - about.md
+  - talks_notes.md
