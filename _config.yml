@@ -3,3 +3,8 @@ theme: minima
 header_pages:
   - index.md
   - talks_notes.md
+
+
+
+url: "https://srnelson1.github.io"
+baseurl: ""
