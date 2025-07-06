@@ -1,14 +1,5 @@
 theme: minima
 
-minima:
-  include:
-    - custom-head.html
-
-# markdown: kramdown
-# kramdown:
-#   math_engine: mathjax
-#   math_engine_opts: {}
-#   input: GFM
 
 header_pages:
   - index.md
