@@ -2,7 +2,7 @@ theme: minima
 
 
 header_pages:
-  - talks_notes.md
+  - pages/talks_notes.md
 
 
 title: Seth Nelson | Math PhD Student

@@ -1,6 +1,6 @@
 ---
 layout: default
-math: true
+permalink: /
 description: Researching and teaching mathematics.
 ---
 
