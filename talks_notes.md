@@ -15,16 +15,18 @@ This is where I store the different notes and presentations I have made. Feel fr
 
 ## <span style="color: #007fff;">Notes</span>
 
-I have some notes I would like to put here, but they are not finalized yet.
+- {% include link.html href="/assets/notes/ModulesRepsChars.pdf" text="Introduction to Character Theory" %} (06/06/2025)
+
+	This is a set of notes on Character Theory which I wrote as an advanced undergrad.
 
 ---
 
 ## <span style="color: #007fff;">Talks</span>
 
-- [Restrictions and Computational Methods for Nonabelian PDSs](/assets/Computational Methods for Nonabelian PDSs.pdf) (University of Richmond, 05/26/2025)
+- {% include link.html href="/assets/presentations/Computational Methods for Nonabelian PDSs.pdf" text="Restrictions and Computational Methods for Nonabelian PDSs" %} (University of Richmond, 05/26/2025)
 
 	This talk introduces some of the main methods and techniques developed in my joint paper _Character theoretic techniques for nonabelian partial difference sets_ with Dr. Eric Swartz.
 
-- [Strong Edge Coloring of Maximum Degree 5 Planar Graphs](/assets/Strong Edge Coloring of Maximum Degree 5 Planar Graphs.pdf) (ODU, 04/10/2024)
+- {% include link.html href="/assets/presentations/Strong Edge Coloring of Maximum Degree 5 Planar Graphs.pdf" text="Strong Edge Coloring of Maximum Degree 5 Planar Graphs" %} (ODU, 04/10/2024)
 
 	This talk discusses some early results Dr. Yu and I achieved during my early research with him. These findings were never published.

@@ -1,7 +1,6 @@
 ---
 layout: default
 math: true
-title: Seth Nelson | Math PhD
 description: Researching and teaching mathematics.
 ---
 
@@ -14,7 +13,7 @@ description: Researching and teaching mathematics.
     <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
       &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
     </a> <br>
-    <a href="https://github.com/srnelson1">GitHub</a> •  <a href="https://www.linkedin.com/in/seth-nelson-891438229/">LinkedIn</a> • <a href="/assets/Academic_CV_Template.pdf">CV</a>
+    {% include link.html href="https://github.com/srnelson1" text="GitHub" %} • {% include link.html href="https://www.linkedin.com/in/seth-nelson-891438229/" text="LinkedIn" %} • {% include link.html href="/assets/Academic_CV_Template.pdf" text="CV" %}
   </div>
   <img src="/assets/images/my_portrait.jpg" alt="Headshot" style="width: 400px; margin-left: 20px; margin-bottom: 45px; vertical-align: top; border: 2px solid black;">
 </div>
@@ -33,7 +32,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 
 - **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz) [Manuscript in Progress]
 
-  We extend some theoretical results from previous work by Udo Ott, and we develop further techniques to use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an <a href="https://github.com/srnelson1/PDS-class-intersections.git">algorithm</a> for finding the conjugacy class intersections of certain classes of partial difference set. 
+  We extend some theoretical results from previous work by Udo Ott, and we develop further techniques to use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an {% include link.html href="https://github.com/srnelson1/PDS-class-intersections" text="algorithm" %} for finding the conjugacy class intersections of certain classes of partial difference set. 
 
  
 - **Strong chromatic index of planar graphs with Ore-degree at most 7 is at most 13** (with Gexin Yu) [Manuscript in Progress]
