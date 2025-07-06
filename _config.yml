@@ -1,11 +1,22 @@
 theme: minima
 
+minima:
+  include:
+    - custom-head.html
+
+# markdown: kramdown
+# kramdown:
+#   math_engine: mathjax
+#   math_engine_opts: {}
+#   input: GFM
+
 header_pages:
   - index.md
   - talks_notes.md
 
 
 title: "Seth Nelson Math"
+author: Seth Nelson
 email: srnelson.math@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my website, where I talk about my math, research, presentations, and notes.
@@ -13,3 +24,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://srnelson1.github.io" # the base hostname & protocol for your site
 github_username:  srnelson1
 linkedin_username: seth-nelson-891438229
+
+social:
+  name: Seth Nelson
+  links:
+    - https://github.com/srnelson1
+    - https://linkedin.com/in/seth-nelson-891438229
