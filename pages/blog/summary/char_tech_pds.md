@@ -1,8 +1,8 @@
 ---
-title: summary
 layout: default
 permalink: /blog/summary/char_tech_pds/
-description: This is a summary
+title: "Summary: Character theoretic techniques for nonabelian partial difference sets"
+description: Explanation of Character theoretic techniques for nonabelian partial difference sets
 ---
 
 
@@ -10,8 +10,8 @@ description: This is a summary
 
 This is a summary. Check it out! I can type MathJax in this summary.
 
-\(x \in X\)
+$x \in X$
 
-\(\displaystyle \sum_{i=1}^n i\)
+$\displaystyle \sum_{i=1}^n i$
 
-\(\mathcal{L}\)
+$\mathcal{L}$
