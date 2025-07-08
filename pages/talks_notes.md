@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Talks and Notes
 permalink: /talks_notes/
+title: Talks and Notes
+description: Talks, notes, presentations by Seth Nelson.
 ---
 
 
