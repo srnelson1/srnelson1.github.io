@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /pages/blog_articles/Summary:CharThTechPDS.md
+title: Summary: Character theoretic techniques for nonabelian partial difference sets
+permalink: /blog/Summary:CharThTechPDS.md/
 description: Summary of research paper "Character theoretic techniques for nonabelian partial difference sets" with Dr. Eric Swartz
 ---
 
