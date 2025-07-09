@@ -5,7 +5,18 @@
 <script>
   MathJax = {
     tex: {
-      inlineMath: [['$', '$']]
+      inlineMath: [['$', '$']],
+      displayMath: [['$$', '$$']],
+      macros: {
+        Cay: '\\mathrm{Cay}',
+        Z: '\\mathbb{Z}',
+        R: '\\mathbb{R}',
+        C: '\\mathbb{C}',
+        Q: '\\mathbb{Q}',
+        N: '\\mathbb{N}',
+        F: '\\mathbb{F}',
+        P: '\\mathbb{P}'
+      }
     },
     svg: {
       fontCache: 'global'
