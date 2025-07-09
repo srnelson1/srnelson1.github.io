@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+.title {
+  color: #007fff;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.subtitle {
+  color: #007fff;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.author {
+  padding-left: 2em;
+  padding-bottom: 1em;
+  font-size: 1.25em;
+}
