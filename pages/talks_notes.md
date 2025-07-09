@@ -6,7 +6,9 @@ description: Talks, notes, presentations by Seth Nelson.
 ---
 
 
-## <span style="color: #007fff;"><strong>Talks and Notes</strong></span>
+<hr class="title">
+	Talks and Notes
+</hr>
 
 
 

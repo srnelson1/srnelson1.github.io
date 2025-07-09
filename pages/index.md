@@ -4,7 +4,9 @@ permalink: /
 description: Researching and teaching mathematics.
 ---
 
-## <span style="color: #007fff;"><strong>Seth Nelson</strong></span>
+<h2 class="title">
+  Seth Nelson
+</h2>
 
 <div style="display: flex;">
   <div style="line-height: 1.4em; flex: 1;">
