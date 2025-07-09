@@ -11,4 +11,6 @@ Welcome to my blog. This consists of technical discussions about math and progra
 
 ---
 
+<div style="margin-top: 2em;"></div>
+
 - {% include link.html href="/blog/summary/char_tech_pds/" text="Summary: Character theoretic techniques for nonabelian partial difference sets"%}
