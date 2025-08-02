@@ -3,7 +3,6 @@ theme: minima
 
 header_pages:
   - pages/talks_notes.md
-  - pages/blog.md
 
 
 title: Seth Nelson | Math PhD Student

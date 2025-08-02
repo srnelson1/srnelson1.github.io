@@ -36,14 +36,14 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
   Research
 </h2>
 
-- **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz) [Manuscript in Progress]
-
-  We extend some theoretical results from previous work by Udo Ott, and we develop further techniques to use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an {% include link.html href="https://github.com/srnelson1/PDS-class-intersections" text="algorithm" %} for finding the conjugacy class intersections of certain classes of partial difference set. 
-
  
 - **Strong chromatic index of planar graphs with Ore-degree at most 7 is at most 13** (with Gexin Yu) [Manuscript in Progress]
 
   We use Combinatorial Nullstellens and Euler's Polyhedron Formula to prove the above result.
+
+- **Character theoretic techniques for nonabelian partial difference sets** (with Eric Swartz) [{% include link.html href="https://arxiv.org/abs/2507.23039" text="arxiv" %}]
+
+  We extend some theoretical results from previous work by Udo Ott, and we develop further techniques to use character theory to analyze the conjugacy class intersections of partial difference sets inside nonabelian groups. We created an {% include link.html href="https://github.com/srnelson1/PDS-class-intersections" text="algorithm" %} for finding the conjugacy class intersections of certain classes of partial difference set. 
 
 ---
 
