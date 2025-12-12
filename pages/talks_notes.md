@@ -20,7 +20,7 @@ This is where I store the different notes and presentations I have made. Feel fr
 
 - {% include link.html href="/assets/notes/ModulesRepsChars.pdf" text="Introduction to Character Theory" %} (07/06/2025)
 
-	This is a set of notes on Character Theory which I wrote as an advanced undergrad.
+	This is a set of notes on Character Theory which I wrote as an undergrad.
 
 ---
 
