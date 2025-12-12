@@ -28,7 +28,7 @@ description: Researching and teaching mathematics.
   About Me
 </h2>
 
-I’m a PhD student in mathematics with an amorphous collection of interests, focusing loosely on representation theory, combinatorics, and computational mathematics. I’m currently working on problems involving automorphism groups of strongly regular graphs, as well as strong edge colorings of graphs, in collaboration with Dr. Eric Swartz and Dr. Gexin Yu respectively.
+I’m a PhD student in mathematics with an amorphous collection of interests, focusing loosely on representation theory, combinatorics, and computational mathematics. Currently, when I'm not thinking about what research direction I _should_ pursue, I think about graph automorphisms, and different computational problems in discovering graph automorphisms.
 
 ---
 
@@ -37,7 +37,7 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
 </h2>
 
  
-- **Strong chromatic index of planar graphs with Ore-degree at most 7 is at most 13** (with Gexin Yu) [Manuscript in Progress]
+- **Strong chromatic index of planar graphs with Ore-degree at most 7 is at most 13** (with Gexin Yu) [{% include link.html href="https://arxiv.org/abs/2509.06808" text="arxiv" %}]
 
   We use Combinatorial Nullstellens and Euler's Polyhedron Formula to prove the above result.
 
@@ -51,8 +51,9 @@ I’m a PhD student in mathematics with an amorphous collection of interests, fo
   Teaching
 </h2>
 
-I’ve lectured or graded the following courses:
+I've helped grade, TA, or lecture in the following courses:
 
+- University of Georgia, Math 3200 (Fall 2025): Intro to Higher Mathematics
 - William & Mary, Math 307 (Fall 2024): Abstract Algebra I
 - William & Mary, Math 451 (Fall 2024): Linear Algebra Methods in Combinatorics
 
