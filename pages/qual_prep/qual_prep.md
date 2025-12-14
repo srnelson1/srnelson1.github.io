@@ -38,6 +38,8 @@ Finally, there are some problems that I regard as "classic." For these problems,
 
 - {% include link.html href="/assets/quals/analysis/RealQual_Spring2018.pdf" text="RealQual_Spring2018" %}
 
+---
+
 ## <span style="color:  #007fff;">Topology</span>
 
 I have not written up anything on topology, but you can find some qual solutions at Delaney's website {% include link.html href="https://sites.google.com/view/delaney-morgan/qualifying-exam-materials" text="here" %}.
