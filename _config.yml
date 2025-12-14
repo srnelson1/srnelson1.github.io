@@ -11,7 +11,7 @@ author: Seth Nelson
 author_profile: false # true: show author profile, false: hide author profile
 email: srnelson.math@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my website, where I talk about my math and math research, and post my notes and presentations.［Last updated: Dec 12, 2025］
+  This is my website, where I talk about my math and math research, and post my notes and presentations.［Last updated: Dec 13, 2025］
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://srnelson1.github.io" # the base hostname & protocol for your site
 github_username:  srnelson1
