@@ -12,9 +12,7 @@ description: Notes and write upts on different quals.
 
 
 
-Here I have put solutions to the different analysis quals and algebra quals (coming soon!). You can find past UGA quals in most of the subjects {%include link.html href="https://www.math.uga.edu/past-qualifying-exams-0" text="here"%}. They go back quite a long way. Please use these notes judicuously. For each problem, try to work on this problem for 30 minutes *at minimum*. Preferably, you should spend up to an hour on a given problem before looking at this site.
-
-In my solutions, I have tried to be clear in my approach as possible (when I am not being lazy). As a result, some of my write ups are longer than what you should write on the qual. I would recommend that you _not_ emulate the style that I use. Also, inform me about any mistakes, typos, or errors. I cannot guarantee that each write up is correct, so do not take my notes as authoritative.
+I am collecting solutions to different UGA quals on this website. You can find past UGA quals in most of the subjects {%include link.html href="https://www.math.uga.edu/past-qualifying-exams-0" text="here"%}. They go back quite a long way. Please use these notes judicuously, and spend time on each problem before checking a solution. Also, please inform me about any mistakes, typos, or errors. I cannot guarantee that each write up is correct, so do not take my notes as authoritative.
 
 There are some problems that I have not solved, and when this is the case I have noted it under the problem in red. If a solution is not given, I have just been too lazy and slow to write it. In either case, you can always provide me a solution. I will make sure to credit you for it on the website.
 
@@ -39,4 +37,8 @@ Finally, there are some problems that I regard as "classic." For these problems,
 - {% include link.html href="/assets/quals/analysis/RealQual_Fall2018.pdf" text="RealQual_Fall2018" %}
 
 - {% include link.html href="/assets/quals/analysis/RealQual_Spring2018.pdf" text="RealQual_Spring2018" %}
+
+## <span style="color:  #007fff;">Topology</span>
+
+I have not written up anything on topology, but you can find resources at Delaney's website, {% include link.html href="https://sites.google.com/view/delaney-morgan/qualifying-exam-materials" text="here" %}.
 
