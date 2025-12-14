@@ -50,6 +50,8 @@ I have not written up anything on topology, but you can find some qual solutions
 
 This is a collection of qual resources that may be useful.
 
+- {% include link.html href="https://www.math.uga.edu/past-qualifying-exams-0" text="Historical qual problems."}
+
 - Zack Garza's {% include link.html href="https://quals.dzackgarza.com/" text="website" %}: this is a great resources providing study materials of the different quals, and some solutions for different qual problems as well. He also has notes covering specific subject areas.
 
 - Delaney Morgan's {% include link.html href="https://sites.google.com/view/delaney-morgan/qualifying-exam-materials" text="website" %}: as mentioned, this is a good resource for the topology qual.
