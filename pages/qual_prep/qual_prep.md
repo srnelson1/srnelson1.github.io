@@ -12,11 +12,9 @@ description: Notes and write upts on different quals.
 
 
 
-I am collecting solutions to different UGA quals on this website. You can find past UGA quals in most of the subjects {%include link.html href="https://www.math.uga.edu/past-qualifying-exams-0" text="here"%}. They go back quite a long way. Please use these notes judicuously, and spend time on each problem before checking a solution. Also, please inform me about any mistakes, typos, or errors. I cannot guarantee that each write up is correct, so do not take my notes as authoritative.
+I am collecting solutions to different UGA quals on this website. You can find past UGA quals in most of the subjects {%include link.html href="https://www.math.uga.edu/past-qualifying-exams-0" text="here"%}. Also, please inform me about any mistakes, typos, or errors. I cannot guarantee that each write up is correct, so do not take my notes as authoritative.
 
-There are some problems that I have not solved, and when this is the case I have noted it under the problem in red. If a solution is not given, I have just been too lazy and slow to write it. In either case, you can always provide me a solution. I will make sure to credit you for it on the website.
-
-Finally, there are some problems that I regard as "classic." For these problems, I have written (Classic) on the problem in red. Some problems are not classic, but have classic techniques, and in these cases I have also written (Classic). I plan to change these problems to (Classic Technique) to spare you the trouble of figuring out if its a classic problem or classic technique. Also, I still have not gotten around to labeling all the classic problems.
+If I did not know how to solve a problem, it is stated in red. If a solution is simply not given, I have just not gotten to it yet. (You can always send me a texed solution :D ). There are some problems that I regard as "classic." For these problems, I have written (Classic) on the problem in red. Some problems are not classic, but have classic techniques, and in these cases I have written (Classic Technique). 
 
 --- 
 
