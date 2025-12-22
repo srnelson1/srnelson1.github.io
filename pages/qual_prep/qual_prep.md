@@ -23,7 +23,7 @@ Finally, there are some problems that I regard as "classic." For these problems,
 ## <span style="color: #007fff;"> Analysis </span>
 
 
-Note: for some of these problems, the theorem concerning differentiation under the integral sign, also known as the Feynman technique or Leibniz integration, is improperly implied.
+Note: for some of these problems, the theorem concerning differentiation under the integral sign, also known as the Feynman technique or the Leibniz integral rule, is improperly applied.
 
 - {% include link.html href="/assets/quals/analysis/RealQual_Fall2024.pdf" text="RealQual_Fall2024" %}
 
