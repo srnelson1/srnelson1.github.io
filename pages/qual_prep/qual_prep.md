@@ -23,6 +23,8 @@ If I did not know how to solve a problem, it is stated in red. If a solution is 
 
 Note: for some of these problems, the theorem concerning differentiation under the integral sign, also known as the Feynman technique or the Leibniz integral rule, is improperly applied.
 
+- {% include link.html href="/assets/quals/analysis/RealQual_Spring2025.pdf" text="RealQual_Spring2025" %}
+
 - {% include link.html href="/assets/quals/analysis/RealQual_Fall2024.pdf" text="RealQual_Fall2024" %}
 
 - {% include link.html href="/assets/quals/analysis/RealQual_Spring2024.pdf" text="RealQual_Spring2024" %}
