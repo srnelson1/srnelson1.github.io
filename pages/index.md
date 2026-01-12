@@ -15,8 +15,8 @@ description: Researching and teaching mathematics.
     <a href="mailto:&#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
       &#115;&#114;&#110;&#101;&#108;&#115;&#111;&#110;&#46;&#109;&#97;&#116;&#104;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
     </a> <br>
-    {% include link.html href="https://github.com/srnelson1" text="GitHub" %} • {% include link.html href="https://www.linkedin.com/in/seth-nelson-891438229/" text="LinkedIn" %} • {% include link.html href="/assets/Academic_CV_Template.pdf" text="CV" %}
-  </div>
+    {% include link.html href="https://github.com/srnelson1" text="GitHub" %} • {% include link.html href="https://www.linkedin.com/in/seth-nelson-891438229/" text="LinkedIn" %}
+</div>
   <img src="/assets/images/my_portrait.jpg" alt="Headshot" style="width: 400px; margin-left: 20px; margin-bottom: 45px; vertical-align: top; border: 2px solid black;">
 </div>
 
